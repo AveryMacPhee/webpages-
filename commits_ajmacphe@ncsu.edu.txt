@@ -1,0 +1,17 @@
+commit 2e7aec32a21e0f50fa9e99ae3176550d5e21fa59
+Author: Avery MacPhee <ajmacphe@ncsu.edu>
+Date:   Thu Apr 23 15:02:19 2026 -0400
+
+    updates to my webpage and style sheet
+
+commit ce89ec3497ed21080da2bb5961204b385e9d5892
+Author: Avery MacPhee <ajmacphe@ncsu.edu>
+Date:   Thu Apr 23 12:58:15 2026 -0400
+
+    message
+
+commit 893f51b8ca44d36df0ea6d569ebf04f1983ff47d
+Author: AveryMacPhee <ajmacphe@ncsu.edu>
+Date:   Wed Apr 22 17:51:18 2026 -0400
+
+    Add files via upload
